@@ -31,6 +31,13 @@ const FICHES = [
   },
 
    {
+    titre: "Fiche de Lilia Orig pour PR",
+    categorie: "Études",
+    texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
+    auteur: "LiliaOrig"
+  },
+
+  {
     titre: "Conseil de Lilia orig dans branche",
     categorie: "Études",
     texte: "Etudiez bien!",
