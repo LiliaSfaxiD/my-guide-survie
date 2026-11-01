@@ -66,6 +66,13 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+  {
+    titre: "Dans main sans branche - Poser sa question tout de suite",
+    categorie: "Études",
+    texte: "Une incompréhension non traitée en cours devient une heure de travail le soir. Le calcul est vite fait.",
+    auteur: "LiliaD"
+  },
+
 
 
   // ===== FIN DE VOS FICHES =====
