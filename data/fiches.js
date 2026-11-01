@@ -31,6 +31,13 @@ const FICHES = [
   },
 
    {
+    titre: "Fiche de Lilia Orig pour PR",
+    categorie: "Études",
+    texte: "Pas d'études privées à la fac! travaillez seuls, en autonomie.",
+    auteur: "LiliaOrig"
+  },
+
+  {
     titre: "Conseil de Lilia orig dans branche",
     categorie: "Études",
     texte: "Etudiez bien!",
