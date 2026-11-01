@@ -33,7 +33,7 @@ const FICHES = [
    {
     titre: "Fiche de Lilia Orig pour PR",
     categorie: "Études",
-    texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
+    texte: "Pas d'études privées à la fac! travaillez seuls, en autonomie.",
     auteur: "LiliaOrig"
   },
 
