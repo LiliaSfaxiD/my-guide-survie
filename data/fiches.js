@@ -37,7 +37,14 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
-  {
+   {
+    titre: "Fiche  de LiliaD dans branche",
+    categorie: "Vie pratique",
+    texte: "Garez bien votre voiture",
+    auteur: "LiliaD"
+  },
+
+ {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
