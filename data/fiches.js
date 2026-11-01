@@ -30,7 +30,14 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
-  {
+   {
+    titre: "Conseil de Lilia orig dans branche",
+    categorie: "Études",
+    texte: "Etudiez bien!",
+    auteur: "Lilia Orig"
+  },
+
+ {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
