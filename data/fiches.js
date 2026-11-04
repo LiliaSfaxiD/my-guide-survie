@@ -24,7 +24,7 @@
 const FICHES = [
 
   {
-    titre: "La salle de travail du premier",
+    titre: "La salle de travail du premier _",
     categorie: "Études",
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
