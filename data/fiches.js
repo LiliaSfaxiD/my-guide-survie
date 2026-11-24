@@ -33,7 +33,7 @@ const FICHES = [
     titre: "La bibliothèque est top!",
     categorie: "Études",
     texte: "Silencieuse et agréable, plein de livres pour les amoureux de la lecture.",
-    auteur: "Lilia Orig from issue"
+    auteur: "Lilia Orig"
   },
 
 
