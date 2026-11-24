@@ -29,6 +29,13 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "La bibliothèque est top!",
+    categorie: "Études",
+    texte: "Silencieuse et agréable, plein de livres pour les amoureux de la lecture.",
+    auteur: "Lilia Orig"
+  },
+
 
    {
     titre: "Fiche de Lilia Orig pour PR",
